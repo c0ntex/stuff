@@ -1,5 +1,1 @@
-Hello :)
-
-This is some of the stuff I have written.
-
-enjoy!
+just random stuff
